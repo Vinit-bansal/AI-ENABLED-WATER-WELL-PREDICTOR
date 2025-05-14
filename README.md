@@ -23,7 +23,6 @@ A comprehensive web-based application built using Streamlit and machine learning
 | ML Model         | Random Forest Regressor (sklearn)|
 | Data Handling    | Pandas, NumPy                    |
 | Visualization    | Plotly, Matplotlib               |
-| OCR Integration  | (Optional Future Scope) Tesseract|
 | PDF Report       | FPDF                             |
 | Data Sources     | NAQUIM Dataset, CSV Files        |
 
